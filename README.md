@@ -1,4 +1,4 @@
-# Challenge para implementar un modelo de predicción de precios de casas
+# Challenge to implement a house price prediction model
 ========================================================================
 
 The repository contains the files and results of the complete project for development, prediction, and deployment with FastAPI and Docker. The goal of the model is to predict the price of houses in a given California district based on 10 variables:: 
